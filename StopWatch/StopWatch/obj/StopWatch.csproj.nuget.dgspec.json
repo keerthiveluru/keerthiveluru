@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\keert\\source\\repos\\StopWatch\\StopWatch\\StopWatch.csproj": {}
+    "C:\\Users\\keert\\dotnet_demo\\StopWatch\\StopWatch\\StopWatch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\keert\\source\\repos\\StopWatch\\StopWatch\\StopWatch.csproj": {
+    "C:\\Users\\keert\\dotnet_demo\\StopWatch\\StopWatch\\StopWatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\keert\\source\\repos\\StopWatch\\StopWatch\\StopWatch.csproj",
+        "projectUniqueName": "C:\\Users\\keert\\dotnet_demo\\StopWatch\\StopWatch\\StopWatch.csproj",
         "projectName": "StopWatch",
-        "projectPath": "C:\\Users\\keert\\source\\repos\\StopWatch\\StopWatch\\StopWatch.csproj",
+        "projectPath": "C:\\Users\\keert\\dotnet_demo\\StopWatch\\StopWatch\\StopWatch.csproj",
         "packagesPath": "C:\\Users\\keert\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\keert\\source\\repos\\StopWatch\\StopWatch\\obj\\",
+        "outputPath": "C:\\Users\\keert\\dotnet_demo\\StopWatch\\StopWatch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\keert\\AppData\\Roaming\\NuGet\\NuGet.Config",

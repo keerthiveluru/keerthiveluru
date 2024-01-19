@@ -11,7 +11,7 @@ namespace StopWatch
     internal class Context : Istate
     {
         public string TextFirstButton1  { get { return TextFirstButton;  } set { TextFirstButton = "Start"; } } // => throw new NotImplementedException(); 
-
+        //to github
         public string TextSecondButton2 { get { return TextFirstButton; } set { TextFirstButton = "Lapping"; } }//=> throw new NotImplementedException();
         public string State = "inital";
         public string TextFirstButton = "Start";
